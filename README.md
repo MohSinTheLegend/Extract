@@ -1,7 +1,7 @@
 # PRIMIUM FILE MAKING TOOL DUMP UNLIMITED IDZ IN ONE LINK
 
 
-python```
+```python
 rm -rf Extract
 pkg update
 pkg upgrade
